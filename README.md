@@ -1,0 +1,2 @@
+# pokedek
+tugas moprog
